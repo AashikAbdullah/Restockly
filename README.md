@@ -19,7 +19,7 @@
 
 | File                          | Description                                                  |
 |-------------------------------|--------------------------------------------------------------|
-| `restockly_validation.ipynb`  | Main notebook: data cleaning, EDA, forecasting, restock calc |
+| `restockly.ipynb`  | Main notebook: data cleaning, EDA, forecasting, restock calc |
 | `sample_sales_data.csv`       | Sample input dataset for testing and demonstration           |
 | `README.md`                   | Project documentation (this file)                            |
 
@@ -40,7 +40,7 @@ pip install pandas scikit-learn matplotlib seaborn
 
 ### 3. Launch the notebook:
 ```bash
-jupyter notebook restockly_validation.ipynb
+jupyter notebook restockly.ipynb
 ```
 
 ### 4. Prepare your sales data:
